@@ -10,3 +10,5 @@ hub==2.0
 gitlint
 pyelftools==0.24
 pykwalify
+pycrypto
+ecdsa
